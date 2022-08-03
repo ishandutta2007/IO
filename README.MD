@@ -18,7 +18,7 @@
 ## IMO
 
 
-| Country   |      Gold      |  Silver | Bronze |Total |
+| Country   |      Gold      |  Silver | Bronze |Honorable Mention |
 |----------|:-------------:|------:|------:|------:|
 | China China| 168 | 36 | 6	| 0
 | USA | 137	| 117	| 29	| 1
@@ -144,7 +144,7 @@
 ## IPhO
 
 
-| Country   |      Gold      |  Silver | Bronze |Total |Cool |
+| Country   |      Gold      |  Silver | Bronze |Total |Honorable Mention |
 |----------|:-------------:|------:|------:|------:|------:|
 | China | 141 | 21 | 9 |171| 2
 | South Korea | 83 | 27 | 24 |134| 7
