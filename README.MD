@@ -1,25 +1,25 @@
 # All Time Medal Table
 
 ## IOI
-| Country   |      Gold      |  Silver | Bronze |
-|----------|:-------------:|------:|------:|
-| China |   92 |   27 |   12
-| Russia |  68 |   40 |   12
-| USA |  58 |   37 |   16
-| SOUTH Korea|  44 |   43 |   28
-| Poland|  41 |   46 |   32
-| Romania|  32 |   53 |   34
-| Iran|  28 |   61 |   23
-| Bulgaria|  27 |   49 |   39
-| Japan|  27 |   28 |   10
-| Slovakia|  25 |   43 |   34
+| Country   |      Gold      |  Silver | Bronze | Medals Per Capita|
+|----------|:-------------:|------:|------:|------:|
+| China |   92 |   27 |   12| 0.93|
+| Russia |  68 |   40 |   12| 8.33|
+| USA |  58 |   37 |   16| 3.37|
+| South Korea|  44 |   43 |   28| 22.24|
+| Poland|  41 |   46 |   32|31.39|
+| Romania|  32 |   53 |   34|61.97|
+| Iran|  28 |   61 |   23|13.33|
+| Bulgaria|  27 |   49 |   39|166.67|
+| Japan|  27 |   28 |   10|5.17|
+| Slovakia|  25 |   43 |   34|188.89|
 
 
 ## IMO
 
 
-| Country   |      Gold      |  Silver | Bronze |Honorable Mention |
-|----------|:-------------:|------:|------:|------:|
+| Country   |      Gold      |  Silver | Bronze |Honorable Mention | Medals Per Capita|
+|----------|:-------------:|------:|------:|------:|------:|
 | China China| 168 | 36 | 6	| 0
 | USA | 137	| 117	| 29	| 1
 | Russia | 106	| 62	| 12	| 0
@@ -144,8 +144,8 @@
 ## IPhO
 
 
-| Country   |      Gold      |  Silver | Bronze |Total |Honorable Mention |
-|----------|:-------------:|------:|------:|------:|------:|
+| Country   |      Gold      |  Silver | Bronze |Total |Honorable Mention | Medals Per Capita|
+|----------|:-------------:|------:|------:|------:|------:|------:|
 | China | 141 | 21 | 9 |171| 2
 | South Korea | 83 | 27 | 24 |134| 7
 | Russia | 82 | 46 | 10 |138| 4 
