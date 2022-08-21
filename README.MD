@@ -1,32 +1,32 @@
 # All Time Medal Table
 
 ## IOI
-| Country   |      Gold      |  Silver | Bronze | Medals Per Capita|
-|----------|:-------------:|------:|------:|------:|
-| China |   92 |   27 |   12| 0.93|
-| Russia |  68 |   40 |   12| 8.33|
-| USA |  58 |   37 |   16| 3.37|
-| South Korea|  44 |   43 |   28| 22.24|
-| Poland|  41 |   46 |   32|31.39|
-| Romania|  32 |   53 |   34|61.97|
-| Iran|  28 |   61 |   23|13.33|
-| Bulgaria|  27 |   49 |   39|166.67|
-| Japan|  27 |   28 |   10|5.17|
-| Slovakia|  25 |   43 |   34|188.89|
-| India|  1 |   18 |   36|0.39|
+| Country   |      Gold      |  Silver | Bronze | Medals Per Capita| Golds Per Capita|
+|----------|:-------------:|------:|------:|------:|------:|
+| China |   92 |   27 |   12| 0.93|0.66|
+| Russia |  68 |   40 |   12| 8.33|4.85|
+| USA |  58 |   37 |   16| 3.37|1.75|
+| South Korea|  44 |   43 |   28| 22.24|8.46|
+| Poland|  41 |   46 |   32|31.39||
+| Romania|  32 |   53 |   34|61.97||
+| Iran|  28 |   61 |   23|13.33||
+| Bulgaria|  27 |   49 |   39|166.67||
+| Japan|  27 |   28 |   10|5.17||
+| Slovakia|  25 |   43 |   34|188.89||
+| India|  1 |   18 |   36|0.39|0.01|
 
 
 ## IMO
 
 
-| Country   |      Gold      |  Silver | Bronze |Honorable Mention | Medals Per Capita|
-|----------|:-------------:|------:|------:|------:|------:|
-| China | 168 | 36 | 6	| 0|1.5|
-| USA | 137	| 117	| 29	| 1||
-| Russia | 106	| 62	| 12	| 0|12.5|
-| South Korea  | 86	| 74	| 28	| 7|36.36|
-| Hungary | 85	| 167	| 107	| 10|370.10|
-| Romania | 78| 149| 110	| 7|167.70|
+| Country   |      Gold      |  Silver | Bronze |Honorable Mention | Medals Per Capita| Golds Per Capita|
+|----------|:-------------:|------:|------:|------:|------:|------:|
+| China | 168 | 36 | 6	| 0|1.5|1.2|
+| USA | 137	| 117	| 29	| 1|8.8|4.15|
+| Russia | 106	| 62	| 12	| 0|12.5|7.58|
+| South Korea  | 86	| 74	| 28	| 7|36.4|16.63|
+| Hungary | 85	| 167	| 107	| 10|370.10||
+| Romania | 78| 149| 110	| 7|167.70||
 | USSR | 77	| 67	| 45	| 0||
 | Vietnam 	| 65	| 111	| 78	| 2||
 | Bulgaria 	| 55	| 123	| 114	| 13||
