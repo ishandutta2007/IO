@@ -145,10 +145,10 @@
 ## IPhO
 
 
-| Country   |      Gold      |  Silver | Bronze |Total |Honorable Mention | Medals Per Capita|
-|----------|:-------------:|------:|------:|------:|------:|------:|
-| China | 141 | 21 | 9 |171| 2|1.22|
-| South Korea | 83 | 27 | 24 |134| 7|25.91|
-| Russia | 82 | 46 | 10 |138| 4 |9.58|
-| Taiwan | 77 | 32 | 18 |127| 8|54.04|
-| India | 46 | 48 | 14 |108| 3|0.78|
+| Country   |      Gold      |  Silver | Bronze |Total |Honorable Mention | Medals Per Capita| Golds Per Capita|
+|----------|:-------------:|------:|------:|------:|------:|------:|------:|
+| China | 141 | 21 | 9 |171| 2|1.22|1.01|
+| South Korea | 83 | 27 | 24 |134| 7|25.91|43.22|
+| Russia | 82 | 46 | 10 |138| 4 |9.58|5.85|
+| Taiwan | 77 | 32 | 18 |127| 8|54.04|32.76|
+| India | 46 | 48 | 14 |108| 3|0.78|0.33|
