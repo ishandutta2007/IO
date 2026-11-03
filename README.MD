@@ -1,6 +1,27 @@
-# All Time Medal Table
+﻿# International Science Olympiads: All-Time Medal Table 🏅
 
-## IOI
+A curated all-time medal tally and performance statistics for prestigious International Science Olympiads:
+- **IOI** (International Olympiad in Informatics)
+- **IMO** (International Mathematical Olympiad)
+- **IPhO** (International Physics Olympiad)
+
+Compare country rankings by gold, silver, bronze medals, total counts, and per capita medal metrics.
+
+---
+
+## 📌 Table of Contents
+- [International Olympiad in Informatics (IOI)](#ioi---international-olympiad-in-informatics)
+- [International Mathematical Olympiad (IMO)](#imo---international-mathematical-olympiad)
+- [International Physics Olympiad (IPhO)](#ipho---international-physics-olympiad)
+- [Contributing](#contributing)
+- [License](#license)
+
+---
+
+## IOI - International Olympiad in Informatics
+
+All-time cumulative medal statistics for national teams at the International Olympiad in Informatics (IOI).
+
 | Country   |      Gold      |  Silver | Bronze | Medals Per Capita| Golds Per Capita|
 |----------|:-------------:|------:|------:|------:|------:|
 | China |   92 |   27 |   12| 0.93|0.66|
@@ -16,7 +37,9 @@
 | India|  1 |   18 |   36|0.39|0.01|
 
 
-## IMO
+## IMO - International Mathematical Olympiad
+
+All-time cumulative medal statistics for national teams at the International Mathematical Olympiad (IMO).
 
 
 | Country   |      Gold      |  Silver | Bronze |Honorable Mention | Medals Per Capita| Golds Per Capita|
@@ -142,7 +165,9 @@
 | Egypt 	| 0	| 0	| 0	| 1||
 | Tanzania 	| 0	| 0	| 0	| 1||
 
-## IPhO
+## IPhO - International Physics Olympiad
+
+All-time cumulative medal statistics for national teams at the International Physics Olympiad (IPhO).
 
 
 | Country   |      Gold      |  Silver | Bronze |Total |Honorable Mention | Medals Per Capita| Golds Per Capita|
@@ -152,3 +177,12 @@
 | Russia | 82 | 46 | 10 |138| 4 |9.58|5.85|
 | Taiwan | 77 | 32 | 18 |127| 8|54.04|32.76|
 | India | 46 | 48 | 14 |108| 3|0.78|0.33|
+
+
+---
+
+## Contributing
+Contributions, updates, and corrections to the medal records are welcome! Feel free to submit a pull request or open an issue.
+
+## License
+This project is open-source and available under the [MIT License](LICENSE).
