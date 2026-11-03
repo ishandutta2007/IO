@@ -1,26 +1,41 @@
-﻿# International Science Olympiads: All-Time Medal Table 🏅
+﻿<p align="center">
+  <img src="assets/banner.svg" alt="International Science Olympiads Medal Table Banner" width="100%" />
+</p>
 
-A curated all-time medal tally and performance statistics for prestigious International Science Olympiads:
-- **IOI** (International Olympiad in Informatics)
-- **IMO** (International Mathematical Olympiad)
-- **IPhO** (International Physics Olympiad)
+# International Science Olympiads: All-Time Medal Table 🏅
 
-Compare country rankings by gold, silver, bronze medals, total counts, and per capita medal metrics.
+<p align="left">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/IO/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/IO?style=flat-square" alt="GitHub stars" /></a>
+  <a href="https://github.com/ishandutta2007/IO/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/IO?style=flat-square" alt="GitHub forks" /></a>
+  <a href="https://github.com/ishandutta2007/IO/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/IO?style=flat-square" alt="GitHub issues" /></a>
+  <a href="https://github.com/ishandutta2007/IO/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License: MIT" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
+
+A curated all-time medal tally and performance statistics for prestigious International Science Olympiads 🌍:
+- 💻 **IOI** (International Olympiad in Informatics)
+- 📐 **IMO** (International Mathematical Olympiad)
+- ⚛️ **IPhO** (International Physics Olympiad)
+
+Compare country rankings by gold 🥇, silver 🥈, bronze 🥉 medals, total counts 📊, and per capita medal metrics 🌐.
 
 ---
 
 ## 📌 Table of Contents
-- [International Olympiad in Informatics (IOI)](#ioi---international-olympiad-in-informatics)
-- [International Mathematical Olympiad (IMO)](#imo---international-mathematical-olympiad)
-- [International Physics Olympiad (IPhO)](#ipho---international-physics-olympiad)
-- [Contributing](#contributing)
-- [License](#license)
+- [💻 International Olympiad in Informatics (IOI)](#-ioi---international-olympiad-in-informatics)
+- [📐 International Mathematical Olympiad (IMO)](#-imo---international-mathematical-olympiad)
+- [⚛️ International Physics Olympiad (IPhO)](#️-ipho---international-physics-olympiad)
+- [💖 Support &amp; Sponsorship](#-support)
+- [📈 Star History](#-star-history)
+- [🤝 Contributing](#-contributing)
+- [📜 License](#-license)
 
 ---
 
-## IOI - International Olympiad in Informatics
+## 💻 IOI - International Olympiad in Informatics
 
-All-time cumulative medal statistics for national teams at the International Olympiad in Informatics (IOI).
+All-time cumulative medal statistics for national teams at the International Olympiad in Informatics (IOI). 🏆
 
 | Country   |      Gold      |  Silver | Bronze | Medals Per Capita| Golds Per Capita|
 |----------|:-------------:|------:|------:|------:|------:|
@@ -37,9 +52,9 @@ All-time cumulative medal statistics for national teams at the International Oly
 | India|  1 |   18 |   36|0.39|0.01|
 
 
-## IMO - International Mathematical Olympiad
+## 📐 IMO - International Mathematical Olympiad
 
-All-time cumulative medal statistics for national teams at the International Mathematical Olympiad (IMO).
+All-time cumulative medal statistics for national teams at the International Mathematical Olympiad (IMO). 🏆
 
 
 | Country   |      Gold      |  Silver | Bronze |Honorable Mention | Medals Per Capita| Golds Per Capita|
@@ -165,9 +180,9 @@ All-time cumulative medal statistics for national teams at the International Mat
 | Egypt 	| 0	| 0	| 0	| 1||
 | Tanzania 	| 0	| 0	| 0	| 1||
 
-## IPhO - International Physics Olympiad
+## ⚛️ IPhO - International Physics Olympiad
 
-All-time cumulative medal statistics for national teams at the International Physics Olympiad (IPhO).
+All-time cumulative medal statistics for national teams at the International Physics Olympiad (IPhO). 🏆
 
 
 | Country   |      Gold      |  Silver | Bronze |Total |Honorable Mention | Medals Per Capita| Golds Per Capita|
@@ -181,8 +196,28 @@ All-time cumulative medal statistics for national teams at the International Phy
 
 ---
 
-## Contributing
-Contributions, updates, and corrections to the medal records are welcome! Feel free to submit a pull request or open an issue.
+## 💖 Support
 
-## License
-This project is open-source and available under the [MIT License](LICENSE).
+Thank you so much for visiting this repository! 🌟 If you found this compilation useful or insightful, please consider:
+- ⭐ **Starring** this repository to help others discover it
+- 🍴 **Forking** and contributing additional data, charts, or updates
+- 📢 **Sharing** this repository with fellow students, teachers, and competitive programming/math enthusiasts
+- ☕ **Buying a coffee / sponsoring** the project via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007)
+
+[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%99%A5-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/ishandutta2007)
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/IO&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/IO&type=date&legend=top-left)
+
+---
+
+## 🤝 Contributing
+Contributions, updates, and corrections to the medal records are welcome! Feel free to submit a pull request or open an issue. 🚀
+
+---
+
+## 📜 License
+This project is open-source and available under the [MIT License](LICENSE). 📄
